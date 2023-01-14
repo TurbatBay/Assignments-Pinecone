@@ -1,0 +1,25 @@
+.container {
+    max-width: 578px;
+    margin: auto;
+    background-color: aqua;
+}
+.container h1 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+}
+.text {
+    font-size: 30px;
+    padding: 10px;
+    border: 1px solid rgb(26, 48, 26);
+    color: rgb(126, 126, 226);
+
+}
+.text:hover {
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(83, 37, 15);
+    padding: 15px;
+    transition-duration: 2s;
+    transition-delay: 0s;
+}
