@@ -4,9 +4,13 @@
 }
 
 
-.container {
-    
+h1 {
+    text-align: center;
+    background-color: rebeccapurple;
+    color: white;
+    margin-bottom: 50px;
 }
+
 
 .first {
     padding-bottom: 100px;
